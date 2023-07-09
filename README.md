@@ -1,8 +1,5 @@
 # PassportLaravel
 
-
-# Project Title
-
 A brief description of what this project does and who it's for \
 Step 1: composer require laravel/passport
 \
