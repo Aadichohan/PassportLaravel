@@ -41,7 +41,7 @@ step 7: In User model : we added
     "last_name":"khan",
     "address":"Karachi",
     "email" : "de@mail.com",
-    "dob" : "24-04-2010",
+    "dob" : "24-04-2010", // date format mm-dd-yy
     "password":"12345678",
     "interests" : [1,2,3,90] // interest_id multiple
 }
